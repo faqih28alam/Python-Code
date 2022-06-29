@@ -1,8 +1,4 @@
-#https://www.youtube.com/watch?v=TKfTKA5EmmY&t=130s
 #https://medium.com/analytics-vidhya/how-to-load-any-image-dataset-in-python-3bd2fa2cb43d
-
-##################importing libraries
-import sklearn
 
 ##################preparing dataset
 
