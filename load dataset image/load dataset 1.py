@@ -1,8 +1,6 @@
-#https://www.youtube.com/watch?v=TKfTKA5EmmY&t=130s
 #https://stackoverflow.com/questions/70945386/how-to-load-custom-image-dataset-to-x-train
 
 ##################importing libraries
-import sklearn
 from tqdm import tqdm
 import os
 import cv2
